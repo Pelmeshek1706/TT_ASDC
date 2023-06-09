@@ -1,0 +1,10 @@
+tensorflow==2.11.0
+extra-keras-datasets==1.2.0
+opencv-python-headless==4.5.5.52
+opencv-contrib-python==4.5.5.62
+opencv-python
+numpy==1.24.3
+imageio==2.19.3
+matplotlib==3.5.2
+pandas==1.5.3
+keras==2.11.0
